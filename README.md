@@ -1,5 +1,6 @@
 #
-![](https://komarev.com/ghpvc/&color=yellow/&label=toast)
+![](https://komarev.com/ghpvc/?toast/&color=yellow)
+
 ![Project Dashboard](https://i.imgur.com/tlWsAaX.jpg)
 
 
