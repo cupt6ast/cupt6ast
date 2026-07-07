@@ -7,7 +7,7 @@
 
 
 
-![Project Dashboard](https://i.imgur.com/tlWsAaX.jpg)
+![Project Dashboard](https://i.imgur.com/5GtLFKU.png)
 
 
 <!--
