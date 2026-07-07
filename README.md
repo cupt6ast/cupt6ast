@@ -1,4 +1,5 @@
 #
+![Github Views](https://views.igorkowalczyk.dev/api/badge/YOUR-USERNAME)
 ![Project Dashboard](https://i.imgur.com/tlWsAaX.jpg)
 
 
