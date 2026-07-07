@@ -1,5 +1,11 @@
 #
-![](https://komarev.com/ghpvc/?toast/&color=yellow)
+&emsp;&emsp;[ata](https://itsmenme.atabook.org/) &emsp;
+&emsp;
+&emsp;[strawpage](https://itsasier.straw.page/)&ensp;
+&emsp;
+&emsp;[artfight](https://artfight.net/~t0astada)
+
+
 
 ![Project Dashboard](https://i.imgur.com/tlWsAaX.jpg)
 
