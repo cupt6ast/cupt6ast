@@ -1,5 +1,5 @@
 #
-![toast](https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME)
+![](https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME/&color=yellow/&&label=toast)
 ![Project Dashboard](https://i.imgur.com/tlWsAaX.jpg)
 
 
