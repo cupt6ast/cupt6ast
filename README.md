@@ -1,5 +1,5 @@
 #
-![Github Views](https://views.igorkowalczyk.dev/api/badge/YOUR-USERNAME)
+![](https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME)
 ![Project Dashboard](https://i.imgur.com/tlWsAaX.jpg)
 
 
