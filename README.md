@@ -1,3 +1,6 @@
+![⛧](https://komarev.com/ghpvc/?username=cupt6ast)
+
+
 <img src="https://i.imgur.com/z226ZHQ.png" height="355">
 
 &emsp;&emsp;&emsp;&emsp;&emsp;[ata](https://itsmenme.atabook.org/)&emsp;
