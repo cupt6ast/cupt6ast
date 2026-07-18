@@ -17,7 +17,8 @@ $\color{#C9EDE4}{\text{are in a way}}\space\color{#BD272A}{\text{fortunate.}}$&e
 $\color{#C9EDE4}{\text{They are}}\space\color{#2a6bcf}{\text{saved}}\space\color{#C9EDE4}{\text{by the goddess of}}$
 <br>
 $\color{#BD272A}{\textbf{love}}\space\color{#ffffff}{\text{and reborn as her children,}}\space\color{#2A6BCF}{\text{Cupids.}}$
-
+<br>
+$\small{\text{- love bullet}}$
 </div>
 
 
