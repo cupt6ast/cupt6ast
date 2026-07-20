@@ -1,6 +1,6 @@
 #
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cupt6ast&color=ff952b&label=lovely&style=plastic" />
+  <img src="https://komarev.com/ghpvc/?username=cupt6ast&color=ffbe33&label=lovely&style=plastic" />
 </p>
 
 <div align="center">
@@ -9,7 +9,7 @@ $\color{#fffff}{\text{⠀𓏲⠀}}\space\color{#FFE2BC}{\text{toast}}$ &nbsp;. .
 <br>
 $\color{#ff5d30}{\text{she/her}}\space\color{#ffffff}{\text{⏔}}\space\color{#b83a1d}{\text{mostly afk}}$
 <br> 
-$\color{#cc3b75}{\text{15 below iwec}}\space\color{#ffffff}{\text{⠀𝜗𓏲⠀}}\space\color{#FFE09D}{\text{c+h enc}}$ ( ᵔᴗᵔ.
+$\color{#cc3b75}{\text{15 below iwec}}\space\color{#ffffff}{\text{⠀𝜗𓏲⠀}}\space\color{#FFE2BC}{\text{c+h enc}}$ ( ᵔᴗᵔ.
 <div>
 <br>
 <p align="center">
