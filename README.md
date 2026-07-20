@@ -4,11 +4,11 @@
 </p>
 <div align="center">
 
-$\color{#fffff}{\text{⠀𓏲⠀}}\space\color{#ff7d45}{\text{toast}}$ &nbsp;. . .
+$\color{#fffff}{\text{⠀𓏲⠀}}\space\color{#FFE2BC}{\text{toast}}$ &nbsp;. . .
 <br>
-<font color="#FFDAC1">she</font> / <font color="#FFDAC1"><i>her</i></font>⠀⏔⠀<u><font color="#E2F0CB">mostly afk</font></u>
+$\color{#C36255}{\text{she/her}}\space\color{#ffffff}{\text{⏔}}\space\color{#FF8F57}{\text{mostly afk}}$
 <br> 
-<font color="#B5EAD7">15 below</font> <font color="#C7CEEA">iwec</font>⠀𝜗𓏲⠀<font color="#FF9AA2">c+h enc <i>!!</i></font> ( ᵔᴗᵔ.
+$\color{#E25184}{\text{15 below iwec}}\space\color{#ffffff}{\text{⠀𝜗𓏲⠀}}\space\color{#FFE09D}{\text{c+h enc}}$ ( ᵔᴗᵔ.
 
 </div>
 
