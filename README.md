@@ -6,9 +6,9 @@
 
 $\color{#fffff}{\text{⠀𓏲⠀}}\space\color{#FFE2BC}{\text{toast}}$ &nbsp;. . .
 <br>
-$\color{#C36255}{\text{she/her}}\space\color{#ffffff}{\text{⏔}}\space\color{#FF8F57}{\text{mostly afk}}$
+$\color{#ff5d30}{\text{she/her}}\space\color{#ffffff}{\text{⏔}}\space\color{#b83a1d}{\text{mostly afk}}$
 <br> 
-$\color{#E25184}{\text{15 below iwec}}\space\color{#ffffff}{\text{⠀𝜗𓏲⠀}}\space\color{#FFE09D}{\text{c+h enc}}$ ( ᵔᴗᵔ.
+$\color{#cc3b75}{\text{15 below iwec}}\space\color{#ffffff}{\text{⠀𝜗𓏲⠀}}\space\color{#FFE09D}{\text{c+h enc}}$ ( ᵔᴗᵔ.
 
 </div>
 
