@@ -21,7 +21,7 @@ $\color{#cc3b75}{\text{15 below iwec}}\space\color{#ffffff}{\text{⠀𝜗𓏲⠀
   <summary><b><color=ff952b>buddies</font></b></summary>
   <br>
 
-   [@sxphyrin](https://github.com/sxphyrin) , [@Jsmn-T](https://github.com/Jsmn-T) , [@LAVIEDOTOK](https://github.com/LAVIEDOTOK) , [@vatrinyasin](https://github.com/vatrinyasin) , [@avenueq](https://github.com/avenueq) , [@yanderetan](https://github.com/yanderetan) , an mutals
+   [@sxphyrin](https://github.com/sxphyrin) ‎ ‎  [@Jsmn-T](https://github.com/Jsmn-T) ‎ ‎  [@LAVIEDOTOK](https://github.com/LAVIEDOTOK) ‎ ‎  [@vatrinyasin](https://github.com/vatrinyasin) ‎ ‎  [@avenueq](https://github.com/avenueq) ‎ ‎  [@yanderetan](https://github.com/yanderetan) ‎ ‎  an mutals
 
 </details>
 </div>
