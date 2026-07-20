@@ -7,3 +7,13 @@
 <p align="center">
  <img src="https://i.imgur.com/mGLpFpz.jpg" height="355">
 <br>
+
+<div align="center">
+<details>
+  <summary><b><color=ff952b>buddies</font></b></summary>
+  <br>
+
+  @sxphyrin , @Jsmn-T , @LAVIEDOTOK , @vatrinyasin , @avenueq , @yanderetan , an mutals
+
+</details>
+</div>
