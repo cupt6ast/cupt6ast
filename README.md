@@ -7,7 +7,7 @@
 
 $\color{#fffff}{\text{⠀𓏲⠀}}\space\color{#FFE2BC}{\text{toast}}$ &nbsp;. . .
 <br>
-$\color{#ff5d30}{\text{she/her}}\space\color{#ffffff}{\text{⏔}}\space\color{#b83a1d}{\text{mostly afk}}$
+$\color{#ff5d30}{\text{w2i}}\space\color{#ffffff}{\text{⏔}}\space\color{#b83a1d}{\text{mostly afk}}$
 <br> 
 $\color{#cc3b75}{\text{15 below iwec}}\space\color{#ffffff}{\text{⠀𝜗𓏲⠀}}\space\color{#FFE2BC}{\text{c+h enc}}$ ( ᵔᴗᵔ.
 <div>
