@@ -25,7 +25,3 @@ $\color{#cc3b75}{\text{15 below iwec}}\space\color{#ffffff}{\text{⠀𝜗𓏲⠀
 
 </details>
 </div>
-<div align="center">
-  
-[atabook](https://itsmenme.atabook.org/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[strawpage](https://itsasier.straw.page/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[artfight](https://artfight.net/~t0astada)
-</div>
