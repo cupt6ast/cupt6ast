@@ -11,11 +11,6 @@ $\color{#ff5d30}{\text{w2i}}\space\color{#ffffff}{\text{⏔}}\space\color{#b83a1
 <br> 
 $\color{#cc3b75}{\text{15 below iwec}}\space\color{#ffffff}{\text{⠀𝜗𓏲⠀}}\space\color{#FFE2BC}{\text{c+h enc}}$ ( ᵔᴗᵔ.
 <div>
-<br>
-<p align="center">
- <img src="https://i.imgur.com/mGLpFpz.jpg" height="360">
-<br>
-
 <div align="center">
 <details>
   <summary><b><color=ff952b>buddies</font></b></summary>
@@ -25,3 +20,11 @@ $\color{#cc3b75}{\text{15 below iwec}}\space\color{#ffffff}{\text{⠀𝜗𓏲⠀
 
 </details>
 </div>
+
+<p align="center">
+ <img src="https://i.imgur.com/mGLpFpz.jpg" height="360">
+<br>
+
+<div align="center">
+all links at guns
+
