@@ -26,5 +26,6 @@ $\color{#cc3b75}{\text{15 below iwec}}\space\color{#ffffff}{\text{⠀𝜗𓏲⠀
 <br>
 
 <div align="center">
-all links at guns
+  all links are in <a href="https://guns.lol/che8sywlzie">guns</a>
+</div>
 
