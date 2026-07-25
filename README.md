@@ -24,8 +24,3 @@ $\color{#cc3b75}{\text{15 below iwec}}\space\color{#ffffff}{\text{⠀𝜗𓏲⠀
 <p align="center">
  <img src="https://i.imgur.com/mGLpFpz.jpg" height="360">
 <br>
-
-<div align="center">
-  all links are in <a href="https://guns.lol/che8sywlzie">guns</a>
-</div>
-
