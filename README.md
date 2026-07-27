@@ -9,7 +9,7 @@ $\color{#fffff}{\text{⠀𓏲⠀}}\space\color{#F3C9D7}{\text{toast}}$ &nbsp;. .
 <br>
 $\color{#F97A74}{\text{w2i}}\space\color{#ffffff}{\text{⏔}}\space\color{#5C3758}{\text{mostly afk}}$
 <br> 
-$\color{#F3C9D7}{\text{15 below iwec}}\space\color{#ffffff}{\text{⠀𝜗𓏲⠀}}\space\color{#D47579}{\text{c+h enc}}$ ( ᵔᴗᵔ.
+$\color{#F3C9D7}{\text{15 below iwec}}\space\color{#ffffff}{\text{⠀𝜗𓏲⠀}}\space\color{#D47579}{\text{sign ata}}$ ( ᵔᴗᵔ.
 <div>
 <div align="center">
 <details>
