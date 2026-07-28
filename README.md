@@ -1,6 +1,6 @@
 #
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cupt6ast&color=F67A72&label=lovely&style=plastic" />
+  <img src="https://komarev.com/ghpvc/?username=cupt6ast&color=F67A72&label=hiyoo&style=plastic" />
 </p>
 
 <div align="center">
@@ -13,7 +13,7 @@ $\color{#F3C9D7}{\text{15 below iwec}}\space\color{#ffffff}{\text{⠀𝜗𓏲⠀
 <div>
 <div align="center">
 <details>
-  <summary><b><color=ff952b>buddies</font></b></summary>
+  <summary><b><color=ff952b>lovely peps</font></b></summary>
   <br>
 
    [@sxphyrin](https://github.com/sxphyrin) ‎og *!* ‎  [@Jsmn-T](https://github.com/Jsmn-T) ‎ ‎  [@LAVIEDOTOK](https://github.com/LAVIEDOTOK) ‎ ‎  [@vatrinyasin](https://github.com/vatrinyasin) ‎ ‎  [@avenueq](https://github.com/avenueq) ‎ ‎  [@yanderetan](https://github.com/yanderetan) ‎ ‎  [@angelties](https://github.com/angeIties) ‎ ‎  [@c-utesy](https://github.com/c-utesy)  ‎ ‎ an mutals
