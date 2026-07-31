@@ -24,3 +24,13 @@ $\color{#F3C9D7}{\text{15 below iwec}}\space\color{#ffffff}{\text{⠀𝜗𓏲⠀
 <p align="center">
  <img src="https://i.imgur.com/edP4WvS.png" height="450">
 <br>
+
+<div align="center">
+<details>
+  <summary><b><color=ff952b>links</font></b></summary>
+  <br>
+
+   [ata](https://itsmenme.atabook.org/)  ‎  [staw](https://itsasier.straw.page/) ‎ ‎  [guns](https://guns.lol/links) ‎ ‎  
+
+</details>
+</div>
