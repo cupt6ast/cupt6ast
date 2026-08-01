@@ -22,7 +22,7 @@ $\color{#F3C9D7}{\text{15 below iwec}}\space\color{#ffffff}{\text{⠀𝜗𓏲⠀
 </div>
 
 <p align="center">
- <img src="https://i.imgur.com/edP4WvS.png" height="450">
+ <img src="https://i.imgur.com/xfrxhjt.png" height="340">
 <br>
 
 <div align="center">
