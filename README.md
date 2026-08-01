@@ -22,7 +22,7 @@ $\color{#F3C9D7}{\text{15 below iwec}}\space\color{#ffffff}{\text{⠀𝜗𓏲⠀
 </div>
 
 <p align="center">
- <img src="https://i.imgur.com/xfrxhjt.png" height="340">
+ <img src="https://i.imgur.com/u2c3Qqo.png" height="340">
 <br>
 
 <div align="center">
@@ -34,3 +34,5 @@ $\color{#F3C9D7}{\text{15 below iwec}}\space\color{#ffffff}{\text{⠀𝜗𓏲⠀
 
 </details>
 </div>
+<p align="center">
+ <img src="https://i.imgur.com/0p25n41.png"><img src="https://i.imgur.com/ZzR9ibt.png" height=62>
