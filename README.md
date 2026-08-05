@@ -30,7 +30,7 @@ $\color{#FDDC39}{\text{15 below iwec}}\space\color{#ffffff}{\text{⠀𝜗𓏲⠀
   <summary><b><color=ff952b>links</font></b></summary>
   <br>
 
-   [ata](https://itsmenme.atabook.org/)  ‎  [staw](https://itsasier.straw.page/) ‎ ‎  [guns](https://guns.lol/links) ‎ ‎  
+   [ata](https://itsmenme.atabook.org/)  ‎  [staw](https://itsasier.straw.page/) ‎ ‎  [guns](https://guns.lol/che8sywlzie) ‎ ‎  
 
 </details>
 </div>
