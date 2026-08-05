@@ -11,16 +11,7 @@ $\color{#E53E6D}{\text{w2i}}\space\color{#ffffff}{\text{⏔}}\space\color{#F5AF7
 <br> 
 $\color{#FDDC39}{\text{15 below iwec}}\space\color{#ffffff}{\text{⠀𝜗𓏲⠀}}\space\color{#D0D240}{\text{sign ata}}$ ( ᵔᴗᵔ.
 <div>
-<div align="center">
-<details>
-  <summary><b><color=ff952b>lovely peps</font></b></summary>
-  <br>
-
-   [@sxphyrin](https://github.com/sxphyrin) ‎og *!* ‎  [@Jsmn-T](https://github.com/Jsmn-T) ‎ ‎  [@LAVIEDOTOK](https://github.com/LAVIEDOTOK) ‎ ‎  [@vatrinyasin](https://github.com/vatrinyasin) ‎ ‎  [@avenueq](https://github.com/avenueq) ‎ ‎  [@yanderetan](https://github.com/yanderetan) ‎ ‎  [@angelties](https://github.com/angeIties) ‎ ‎  [@c-utesy](https://github.com/c-utesy) ‎ ‎  [@coatguyy](https://github.com/coatguyy)/[@meowgariita](https://github.com/meowgariita) ‎ ‎ an mutals
-
-</details>
-</div>
-
+ 
 <p align="center">
  <img src="https://i.imgur.com/u2c3Qqo.png" height="340">
 <br>
