@@ -5,7 +5,7 @@
 
 <div align="center">
 
-$\color{#fffff}{\text{⠀𓏲⠀}}\space\color{#F9A137}{\text{toast}}$ &nbsp;. . .
+$\color{#fffff}{\text{⠀𓏲⠀}}\space\color{#F9A137}{\text{toast , asier , cup}}$ &nbsp;. . .
 <br>
 $\color{#E53E6D}{\text{w2i}}\space\color{#ffffff}{\text{⏔}}\space\color{#F5AF73}{\text{mostly afk}}$
 <br> 
