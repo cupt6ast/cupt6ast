@@ -5,15 +5,15 @@
 
 <div align="center">
 
-$\color{#fffff}{\text{⠀𓏲⠀}}\space\color{#F9A137}{\text{toast , asier , cup}}$ &nbsp;. . .
+$\color{#fffff}{\text{⠀𓏲⠀}}\space\color{#}{\text{toast , asier , cup}}$ &nbsp;. . .
 <br>
-$\color{#E53E6D}{\text{w2i}}\space\color{#ffffff}{\text{⏔}}\space\color{#F5AF73}{\text{mostly afk}}$
+$\color{#}{\text{w2i}}\space\color{#ffffff}{\text{⏔}}\space\color{#}{\text{mostly afk}}$
 <br> 
-$\color{#FDDC39}{\text{15 below iwec}}\space\color{#ffffff}{\text{⠀𝜗𓏲⠀}}\space\color{#D0D240}{\text{sign ata}}$ ( ᵔᴗᵔ.
+$\color{#}{\text{15 below iwec}}\space\color{#}{\text{⠀𝜗𓏲⠀}}\space\color{#}{\text{sign ata}}$ ( ᵔᴗᵔ.
 <div>
  
 <p align="center">
- <img src="https://i.imgur.com/u2c3Qqo.png" height="340">
+ <img src="https://imgur.com/0AHzfwm.png" height="340">
 <br>
 
 <div align="center">
@@ -25,5 +25,3 @@ $\color{#FDDC39}{\text{15 below iwec}}\space\color{#ffffff}{\text{⠀𝜗𓏲⠀
 
 </details>
 </div>
-<p align="center">
- <img src="https://i.imgur.com/0p25n41.png"><img src="https://i.imgur.com/ZzR9ibt.png" height=62>
