@@ -5,11 +5,11 @@
 
 <div align="center">
 
-$\color{#fffff}{\text{⠀𓏲⠀}}\space\color{#}{\text{toast , asier , cup}}$ &nbsp;. . .
+$\color{#fece89}{\text{⠀𓏲⠀}}\space\color{#8ae7e3}{\text{toast , asier , cup}}$ &nbsp;. . .
 <br> 
-$\color{#3fbbc8}{\text{w2i}}\space\color{#ffffff}{\text{⏔}}\space\color{#}{\text{mostly afk}}$
+$\color{#1c1d64}{\text{w2i}}\space\color{#ffffff}{\text{⏔}}\space\color{#fece89}{\text{mostly afk}}$
 <br> 
-$\color{#}{\text{15 below iwec}}\space\color{#}{\text{⠀𝜗𓏲⠀}}\space\color{#}{\text{sign ata}}$ ( ᵔᴗᵔ.
+$\color{#59cbda}{\text{15 below iwec}}\space\color{#fece89}{\text{⠀𝜗𓏲⠀}}\space\color{#992014}{\text{sign ata}}$ ( ᵔᴗᵔ.
 <div>
  
 
