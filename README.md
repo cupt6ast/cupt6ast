@@ -1,13 +1,13 @@
 #
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cupt6ast&color=fed971&label=hiyoo&style=plastic" />
+  <img src="https://komarev.com/ghpvc/?username=cupt6ast&color=fdfeba&label=hiyoo&style=plastic" />
 </p>
 
 <div align="center">
 
 $\color{#fffff}{\text{⠀𓏲⠀}}\space\color{#}{\text{toast , asier , cup}}$ &nbsp;. . .
-<br>
-$\color{#}{\text{w2i}}\space\color{#ffffff}{\text{⏔}}\space\color{#}{\text{mostly afk}}$
+<br> 
+$\color{#3fbbc8}{\text{w2i}}\space\color{#ffffff}{\text{⏔}}\space\color{#}{\text{mostly afk}}$
 <br> 
 $\color{#}{\text{15 below iwec}}\space\color{#}{\text{⠀𝜗𓏲⠀}}\space\color{#}{\text{sign ata}}$ ( ᵔᴗᵔ.
 <div>
