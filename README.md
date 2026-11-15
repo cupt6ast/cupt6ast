@@ -12,8 +12,9 @@ $\color{#}{\text{w2i}}\space\color{#ffffff}{\text{⏔}}\space\color{#}{\text{mos
 $\color{#}{\text{15 below iwec}}\space\color{#}{\text{⠀𝜗𓏲⠀}}\space\color{#}{\text{sign ata}}$ ( ᵔᴗᵔ.
 <div>
  
+
 <p align="center">
- <img src="https://imgur.com/0AHzfwm.png" height="340">
+ <img src="https://imgur.com/1lfBPJI.png">
 <br>
 
 <div align="center">
